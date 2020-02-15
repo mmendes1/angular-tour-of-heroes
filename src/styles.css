@@ -1,1 +1,28 @@
-/* You can add global styles to this file, and also import other style files */
+/*App Styles*/
+h1 {
+    color: #369;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+}
+
+h2, h3 {
+    color: #444;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 150%;
+}
+
+body {
+    margin: 2em;
+    font-size: 60%;
+}
+
+body, input[type="text"], button {
+    color: #333;
+    font-family: Cambria, Georgia;
+}
+
+/*Everywhere eles*/
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
